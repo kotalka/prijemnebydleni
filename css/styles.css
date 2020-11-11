@@ -51,6 +51,11 @@
   }
 }
 
+#pbkontakt {
+    width: 130px;
+    height: auto;
+  }
+
 *,
 *::before,
 *::after {
