@@ -42,9 +42,95 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+/* marginy, nadpisy */
 @media (min-width: 576px) {
+  h1, .h1 {
+    font-size: 2rem;
+  }
+  
+  h2, .h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3, .h3 {
+    font-size: 1.25rem;
+  }
+  
+  h4, .h4 {
+    font-size: 1rem;
+  }
+  
+  h5, .h5 {
+    font-size: 0.85rem;
+  }
+  
+  h6, .h6 {
+    font-size: 0.5rem;
+}
+}
+
+@media (min-width: 768px) {
+  h1, .h1 {
+    font-size: 2rem;
+  }
+  
+  h2, .h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3, .h3 {
+    font-size: 1.25rem;
+  }
+  
+  h4, .h4 {
+    font-size: 1rem;
+  }
+  
+  h5, .h5 {
+    font-size: 0.85rem;
+  }
+  
+  h6, .h6 {
+    font-size: 0.5rem;
+}
+}
+}
+@media (min-width: 992px) {
+  h1, .h1 {
+    font-size: 2rem;
+  }
+  
+  h2, .h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3, .h3 {
+    font-size: 1.25rem;
+  }
+  
+  h4, .h4 {
+    font-size: 1rem;
+  }
+  
+  h5, .h5 {
+    font-size: 0.85rem;
+  }
+  
+  h6, .h6 {
+    font-size: 0.5rem;
+}
+}
+@media (min-width: 1200px) {
+   {
+    
   }
 }
+
+
+
+
+
+
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
