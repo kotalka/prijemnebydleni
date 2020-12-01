@@ -72,7 +72,35 @@ font-size: 15px !important;
     } 
     } 
 
+    @media (max-width: 992px) {
+      .portfolio-modal .modal-content p {
+        font-size: 0.8rem;
+      }
+  
+      #h2-slider {
+        font-size: 20px !important;
+          }  
+  
+      .masthead {
+        padding-top: 4.5rem !important;
+        padding-bottom: 0rem !important;
+      } 
+      } 
 
+      @media (max-width: 1200px) {
+        .portfolio-modal .modal-content p {
+          font-size: 0.8rem;
+        }
+    
+        #h2-slider {
+          font-size: 20px !important;
+            }  
+    
+        .masthead {
+          padding-top: 4.5rem !important;
+          padding-bottom: 0rem !important;
+        } 
+        } 
 
 @media (min-width: 768px) {
   .container {
