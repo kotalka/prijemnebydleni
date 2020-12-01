@@ -46,12 +46,18 @@
   .portfolio-modal .modal-content p {
     font-size: 0.8rem;
   } 
+  .masthead {
+    padding-top: 4.5rem !important;
   } 
+} 
   
   @media (max-width: 768px) {
     .portfolio-modal .modal-content p {
       font-size: 0.8rem;
     }
+    .masthead {
+      padding-top: 4.5rem !important;
+    } 
     } 
 
 
