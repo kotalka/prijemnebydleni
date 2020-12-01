@@ -55,6 +55,11 @@ font-size: 15px !important;
     padding-top: 4.5rem !important;
     padding-bottom: 0rem !important;
   } 
+
+  .carousel-caption {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+  }
 } 
   
   @media (max-width: 768px) {
@@ -70,6 +75,10 @@ font-size: 15px !important;
       padding-top: 4.5rem !important;
       padding-bottom: 0rem !important;
     } 
+    .carousel-caption {
+      padding-top: 20px !important;
+      padding-bottom: 20px !important;
+    }
     } 
 
     @media (max-width: 992px) {
@@ -85,6 +94,10 @@ font-size: 15px !important;
         padding-top: 4.5rem !important;
         padding-bottom: 0rem !important;
       } 
+      .carousel-caption {
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+      }
       } 
 
       @media (max-width: 1200px) {
@@ -100,6 +113,10 @@ font-size: 15px !important;
           padding-top: 4.5rem !important;
           padding-bottom: 0rem !important;
         } 
+        .carousel-caption {
+          padding-top: 20px !important;
+          padding-bottom: 20px !important;
+        }
         } 
 
 @media (min-width: 768px) {
@@ -6085,8 +6102,8 @@ a.close.disabled {
   bottom: 20px;
   left: 15%;
   z-index: 10;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   color: #fff;
   text-align: center;
 }
