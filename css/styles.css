@@ -48,6 +48,7 @@
   } 
   .masthead {
     padding-top: 4.5rem !important;
+    padding-bottom: 0rem !important;
   } 
 } 
   
@@ -57,6 +58,7 @@
     }
     .masthead {
       padding-top: 4.5rem !important;
+      padding-bottom: 0rem !important;
     } 
     } 
 
