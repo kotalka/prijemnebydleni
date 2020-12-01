@@ -61,6 +61,11 @@ font-size: 15px !important;
     .portfolio-modal .modal-content p {
       font-size: 0.8rem;
     }
+
+    #h2-slider {
+      font-size: 20px !important;
+        }  
+
     .masthead {
       padding-top: 4.5rem !important;
       padding-bottom: 0rem !important;
@@ -10220,7 +10225,7 @@ header.masthead .masthead-heading {
 
   header.masthead {
     padding-top: 17rem;
-    padding-bottom: 12.5rem;
+    padding-bottom: 3rem;
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
