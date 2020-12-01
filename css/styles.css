@@ -46,8 +46,9 @@
   .portfolio-modal .modal-content p {
     font-size: 0.8rem;
   } 
-    #h2-slider{
-font-size: 15px;
+
+    #h2-slider {
+font-size: 15px !important;
   } 
 
   .masthead {
