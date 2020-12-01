@@ -46,6 +46,10 @@
   .portfolio-modal .modal-content p {
     font-size: 0.8rem;
   } 
+    #h2-slider{
+font-size: 15px;
+  } 
+
   .masthead {
     padding-top: 4.5rem !important;
     padding-bottom: 0rem !important;
@@ -68,6 +72,10 @@
   .container {
     max-width: 720px;
   }
+}
+
+.h2-slider-comp {
+  font-size: 5rem;
 }
 
 #pbkontakt {
