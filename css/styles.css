@@ -61,6 +61,10 @@ font-size: 15px !important;
     padding-bottom: 0rem !important;
   } 
 
+  #btn-text-slider {
+    font-size: 13px !important;
+    } 
+
   .carousel-caption {
     padding-top: 20px !important;
     padding-bottom: 20px !important;
@@ -80,6 +84,11 @@ font-size: 15px !important;
       padding-top: 4.5rem !important;
       padding-bottom: 0rem !important;
     } 
+
+    #btn-text-slider {
+      font-size: 13px !important;
+      } 
+
     .carousel-caption {
       padding-top: 20px !important;
       padding-bottom: 20px !important;
@@ -99,6 +108,11 @@ font-size: 15px !important;
         padding-top: 4.5rem !important;
         padding-bottom: 0rem !important;
       } 
+
+      #btn-text-slider {
+        font-size: 13px !important;
+        } 
+
       .carousel-caption {
         padding-top: 20px !important;
         padding-bottom: 20px !important;
@@ -118,6 +132,11 @@ font-size: 15px !important;
           padding-top: 4.5rem !important;
           padding-bottom: 0rem !important;
         } 
+
+        #btn-text-slider {
+          font-size: 13px !important;
+          }  
+
         .carousel-caption {
           padding-top: 20px !important;
           padding-bottom: 20px !important;
