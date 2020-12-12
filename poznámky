@@ -347,3 +347,72 @@
 </body>
 
 </html>
+
+ <ul class="list-inline">
+                    <table style="margin: auto;"
+                        class="text-muted text-left table table-responsive-sm mb-5 mt-4 text-muted">
+
+                        <tbody>
+                            <tr>
+                                <th scope="row">ID:</th>
+                                <td id="right">1079869276</td>
+                                <th id="right">Plocha zahrady:</th>
+                                <td id="right">520 m²</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Stavba:</th>
+                                <td id="right">Cihlová</td>
+                                <th id="right">Rok kolaudace</th>
+                                <td id="right">2020</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Stav objektu:</th>
+                                <td id="right">Novostavba</td>
+                                <th id="right">Voda:</th>
+                                <td id="right">Dálkový vodovod</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Umístění objektu:</th>
+                                <td id="right">Klidná část obce</td>
+                                <th id="right">Topení:</th>
+                                <td id="right">Lokální tuhá palivabrbr<br>Lokální elektrické</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Typ domu:</th>
+                                <td id="right">Patrový</td>
+                                <th id="right">Odpad:</th>
+                                <td id="right">Veřejná kanalizace</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Podlaží:</th>
+                                <td id="right">2</td>
+                                <th id="right">Elektřina:</th>
+                                <td id="right">230V</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Plocha zastavěná:</th>
+                                <td id="right">57 m²</td>
+                                <th id="right">Komunikace:</th>
+                                <td id="right">Dlážděná</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Užitná plocha:</th>
+                                <td id="right">80 m²</td>
+                                <th id="right">Energetická náročnost<br>budovy:</th>
+                                <td id="right">Třída A<br>Mimořádně úsporná</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Plocha pozemku:</th>
+                                <td id="right">577 m²</td>
+                                <th id="right">Bezbariérový přístup:</th>
+                                <td id="right">x</td>
+                            </tr>
+                            <tr>
+                                <th></th>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </ul>
