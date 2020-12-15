@@ -42,6 +42,10 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.background-prodej-domu {
+  background:linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url("../assets/img/plnelogo.png"); 
+} 
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 #btn-text-slider {
