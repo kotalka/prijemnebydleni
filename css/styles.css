@@ -135,7 +135,7 @@ font-size: 15px !important;
     
         #h2-slider {
           font-size: 20px !important;
-            }  
+            }       
     
         .masthead {
           padding-top: 4.5rem !important;
@@ -156,6 +156,8 @@ font-size: 15px !important;
   .container {
     max-width: 720px;
   }
+
+
 }
 
 
@@ -682,7 +684,7 @@ pre code {
   .container {
     max-width: 540px;
   }
-  
+ 
 }
 @media (min-width: 768px) {
   .container {
